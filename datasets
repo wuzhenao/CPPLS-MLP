@@ -1,0 +1,2 @@
+For seqFISH+，the single-cell ST data of the mouse somatosensory cortex dataset was retrieved from the “Github repository[https://rubd.github.io/Giotto_site/articles/mouse_seqFISH_cortex_200914]”.
+For Seq-Scope，the single-cell ST data of the human colon dataset was downloaded from “Deep Blue Data[Data Set | Seq-Scope processed datasets for liver and colon results (RDS) and H&E images | ID: 9c67wn05f | Deep Blue Data (umich.edu)]”.
