@@ -2,10 +2,8 @@
 
 R package for estimating cell-cell communications from spatial transcriptome data with single-cell resolution.
 
-# Install
-
+# Install dependent packages
 dependence: R version <= 4.2.3.
-
 Install dependent packages
 install.packages(c("cluster", "circlize", "dplyr", "pls", "purrr", "Seurat", "stringr"), dependencies = TRUE)
 if (!requireNamespace("BiocManager", quietly = TRUE))
