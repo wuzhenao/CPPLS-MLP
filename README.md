@@ -33,5 +33,21 @@ run 2023_01_Seq-Scope.RMD
 ![image](https://github.com/wuzhenao/CPPLS-MLP/assets/114455899/b85da792-38e1-4144-a020-d65a50e70445)
 
 
+(3)Based on the HVGs involved in the construction of the MIMO system, we extracted the HVGs on the dataset based on four methods: FindVariableFeatures(), variance, scannpy, and M3drop. If you want to reproduce this result, you can get the specific code in the folder where the HVG was extracted from the compare_hvg.zip, so that you can.
+
+(4)Based on the query information, we wrote a code that could better apply all the genes to find out if the gene was involved in cellular communication under our criteria：
+
+Enter the list of genes and then run the search_gene to get the results under this criterion.
+
+(5)Finally, you can get the comparison result between CPPLS-MLP and CCPLS in the Kernel function comparison.zip.
+
+(6)If you want to reproduce the results of MLP's classification of genes, you can get it in the divide folder：
+
+run  Seqfish+_Find_var.ipynb
+
+run  Seqfish+_Find_var.ipynb
+
+![image](https://github.com/wuzhenao/CPPLS-MLP/assets/114455899/1b48e576-b188-4536-9c0c-c44df773ea31)
+
 
 
