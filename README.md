@@ -50,4 +50,4 @@ run  Seqfish+_Find_var.ipynb
 ![image](https://github.com/wuzhenao/CPPLS-MLP/assets/114455899/1b48e576-b188-4536-9c0c-c44df773ea31)
 
 
-
+If you are interested in replicating our methods and have questions, please contact us by email. Email: 2285308398@qq.com. We welcome your criticism and correction of our methods.
