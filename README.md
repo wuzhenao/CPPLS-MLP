@@ -1,4 +1,4 @@
-![image](https://github.com/wuzhenao/CPPLS-MLP/assets/114455899/dc350a98-523d-40dd-8850-6fd8be06b8aa)# CPPLS-MLP
+# CPPLS-MLP
 
 R package for estimating cell-cell communications from spatial transcriptome data with single-cell resolution.
 
@@ -21,6 +21,8 @@ pip install networkx == 3.2.1
 run 2023_01_seqFISH+.RMD
 
 run 2023_01_Seq-Scope.RMD
+
+
 ![image](https://github.com/wuzhenao/CPPLS-MLP/assets/114455899/6ac04695-faea-430e-adcd-85056c5e8890)
 
 
