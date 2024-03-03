@@ -29,3 +29,7 @@ run 2023_01_Seq-Scope.RMD
 
 (2)After building a communication network between two cells, we have integrated the cell communication network into a MIMO system. If you want to get this result, you need to unzip the compare_hvg.zip, which contains the solution for all paths for each cell, and get the MIMO system in a code file called a directed graph.
 
+
+![Uploading image.png…]()
+
+
