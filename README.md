@@ -1,4 +1,4 @@
-# CPPLS-MLP
+# CPPLS-MLP:A Method for Constructing Cell-Cell Communication Networks and Identifying Related Highly Variable Genes Based on Single-Cell Sequencing and Spatial Transcriptomics Data
 
 R package for estimating cell-cell communications from spatial transcriptome data with single-cell resolution.
 
